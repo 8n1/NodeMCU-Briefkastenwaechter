@@ -1,4 +1,4 @@
-# NodeMCU-Briefkastewaechter
+# NodeMCU-Briefkastenwaechter
 
 Rewritten and modified version of the fensterwaechter project by "DasBasti". 
 
